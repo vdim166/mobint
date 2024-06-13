@@ -1,0 +1,12 @@
+.icon-img {
+  height: 8vw;
+  width: 8vw;
+}
+
+.icon-img.trash {
+  content: url("../res/img/trash_white.png");
+}
+
+.icon-img.eye {
+  content: url("../res/img/eye_white.png");
+}

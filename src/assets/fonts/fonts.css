@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "MyFont";
+  src: url("../../res/fonts/SegoeUIRegular/SegoeUIRegular.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MyFont";
+  src: url("../../res/fonts/SegoeUIBold/SegoeUIBold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
